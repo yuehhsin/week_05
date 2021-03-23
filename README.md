@@ -42,11 +42,17 @@
 
 第四部分
 
-01 使用 SELECT 搭配 JOIN 的語法，取得所有留言，資料中須包含留言會員的姓名。
+10 在資料庫中，建立新資料表，取名字為 message。
 
-<img width="375" alt="10" src="https://user-images.githubusercontent.com/75563062/112163459-037c7280-8c28-11eb-831c-ed3bd10d48d7.png">
+<img width="723" alt="10-1" src="https://user-images.githubusercontent.com/75563062/112165905-20b24080-8c2a-11eb-9d06-536203e51d38.png">
 
-02 使用 SELECT 搭配 JOIN 的語法，取得 user 資料表中欄位 username 是 ply 的所有留言，資料中須包含留言會員的姓名。
+<img width="567" alt="10-2" src="https://user-images.githubusercontent.com/75563062/112165927-2576f480-8c2a-11eb-89b3-44e076a4c832.png">
 
-<img width="373" alt="11" src="https://user-images.githubusercontent.com/75563062/112163491-0bd4ad80-8c28-11eb-83cc-795fdd9e8ce7.png">
+11 使用 SELECT 搭配 JOIN 的語法，取得所有留言，資料中須包含留言會員的姓名。
+
+<img width="375" alt="11" src="https://user-images.githubusercontent.com/75563062/112165955-2b6cd580-8c2a-11eb-83cf-63a7d917ddb5.png">
+
+12 使用 SELECT 搭配 JOIN 的語法，取得 user 資料表中欄位 username 是 ply 的所有留言，資料中須包含留言會員的姓名。
+
+<img width="373" alt="12" src="https://user-images.githubusercontent.com/75563062/112165992-31fb4d00-8c2a-11eb-9186-535178292301.png">
 
