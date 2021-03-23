@@ -6,6 +6,8 @@
 
 <img width="652" alt="01-1" src="https://user-images.githubusercontent.com/75563062/112162609-2b1f0b00-8c27-11eb-976b-bb7e666a6e18.png">
 
+<img width="729" alt="01-2" src="https://user-images.githubusercontent.com/75563062/112166167-5c4d0a80-8c2a-11eb-8819-f4308455b6be.png">
+
 02 使用 SELECT 指令取得所有在 user 資料表中的使用者資料。
 
 <img width="572" alt="02" src="https://user-images.githubusercontent.com/75563062/112162776-5570c880-8c27-11eb-95e0-15bcc4f35d85.png">
