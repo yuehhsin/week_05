@@ -2,12 +2,15 @@
 
 第三部分
 01 使用 INSERT 指令新增一筆資料到 user 資料表中，這筆資料的 username 和 password 欄位必須是 ply。接著繼續新增至少 4 筆隨意的資料。
+
 <img width="652" alt="01-1" src="https://user-images.githubusercontent.com/75563062/112162609-2b1f0b00-8c27-11eb-976b-bb7e666a6e18.png">
 
 02 使用 SELECT 指令取得所有在 user 資料表中的使用者資料。
+
 <img width="572" alt="02" src="https://user-images.githubusercontent.com/75563062/112162776-5570c880-8c27-11eb-95e0-15bcc4f35d85.png">
 
 03 使用 SELECT 指令取得 user 資料表中總共有幾筆資料。
+
 <img width="526" alt="03" src="https://user-images.githubusercontent.com/75563062/112162823-60c3f400-8c27-11eb-97a7-340fea57943c.png">
 
 04 使用 SELECT 指令取得所有在 user 資料表中的使用者資料，並按照 time 欄位，由近到遠排序。
