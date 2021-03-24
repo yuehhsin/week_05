@@ -22,7 +22,7 @@
 
 05 使用 SELECT 指令取得 user 資料表中第 2 ~ 4 共三筆資料，並按照 time 欄位，由近到遠排序。
 
-<img width="656" alt="05" src="https://user-images.githubusercontent.com/75563062/112162970-87822a80-8c27-11eb-9add-baf59571db07.png">
+<img width="568" alt="UPDATE 05" src="https://user-images.githubusercontent.com/75563062/112242027-01490100-8c86-11eb-8eac-b5d55bbb4cd4.png">
 
 06 使用 SELECT 指令取得欄位 username 是 ply 的使用者資料。
 
